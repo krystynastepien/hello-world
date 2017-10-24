@@ -6,4 +6,4 @@ git add nazwapliku1   nazwapliku2
 git commit -m "komentarz"
 git push origin master
 
-lubieplacki
+asdfghjkl;
