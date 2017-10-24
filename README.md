@@ -7,3 +7,5 @@ git commit -m "komentarz"
 git push origin master
 
 asdfghjkl;
+
+jeo
